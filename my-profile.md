@@ -19,4 +19,21 @@
   座右銘:*生命不是要超越別人，而是要超越自己*
 
   [youtbe](https://www.youtube.com/watch?v=ZqU4oTDy3XE&list=RDZqU4oTDy3XE&start_radio=1)
-![cat]()
+  
+![cat](cat.jpg)
+
+
+> 每一次失敗，都是一次成長的機會。
+
+
+| 任務名稱 | 狀態 | 負責人 | 截止日期 |
+|---|:---:|:---:|---:|
+|需求分析 | 完成 | 小明 | 2023-01-15 | 
+| 資料庫設計 | 進行中 | 小華 | 2023-01-30 | 
+| 前端介面 | 未開始 | 小李 | 2023-02-15 |
+
+```Python
+print("Hello, Markdown!")
+
+
+
