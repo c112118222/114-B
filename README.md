@@ -4,4 +4,4 @@
 #### 114-B
 😸
 ## 😙
-!{NKUST}(nkust.png)
+![NKUST](nkust.png)
